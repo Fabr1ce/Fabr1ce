@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fabr1ce
+- 👋 Hi, I’m Fabrice
 - 👀 I’m interested in Cloud native architectures.
 - 🌱 I’m always learning something new or forifying the fundamnentals. My favorite topic is Linux.
 
