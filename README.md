@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Fabr1ce
-- 👀 I’m interested in Cloud-native architectures.
-- 🌱 I’m currently learning Kubernetes.
-- 💞️ I’m looking to collaborate on cloud hands-on labs, to share knowledge on cloud infrastructures and how to improve and secure them.
+- 👋 Hi, I’m Fabr1ce
+- 👀 I’m interested in Cloud native architectures.
+- 🌱 I’m always learning something new or forifying the fundamnentals. My favorite topic is Linux.
+
 <!---
 Fabr1ce/Fabr1ce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
