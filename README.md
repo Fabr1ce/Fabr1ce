@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing and Linux.
 - 🌱 I’m always learning something new or fortifying the fundamnentals I already have. My favorite topic is Linux.
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fabr1ce&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Farbice's github stats" /></a>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fabr1ce)](https://github.com/anuraghazra/github-readme-stats)
 
