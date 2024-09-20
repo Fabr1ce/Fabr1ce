@@ -1,6 +1,6 @@
-👋 Hi, I’m Fabrice
-👀 I’m interested in Cloud Computing and Linux.
-🌱 I’m always learning something new or fortifying the fundamnentals I already have. My favorite topic is Linux.
+- 👋 Hi, I’m Fabrice
+- 👀 I’m interested in Cloud Computing and Linux.
+- 🌱 I’m always learning something new or fortifying the fundamnentals I already have. My favorite topic is Linux.
 
 [![My GitHub stats](https://fabr1ce.github.io/sthats_me)
 
