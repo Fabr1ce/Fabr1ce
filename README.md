@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fabrice
+👋 Hi, I’m Fabrice
 - 👀 I’m interested in Cloud Computing and Linux.
 - 🌱 I’m always learning something new or fortifying the fundamnentals I already have. My favorite topic is Linux.
 
