@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabrice
-- 👀 I’m interested in Cloud Computing and Linux.
+- 👀 I’m interested in Cloud Computing, Linux, and agentic AI.
 - 🌱 I’m always learning something new or fortifying the fundamnentals I already have. My favorite topic is Linux.
 
 <!---
