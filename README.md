@@ -15,10 +15,16 @@
 ## Tech I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,docker,aws,git,ADK,A2A,OTEL" />
+  <img src="https://skillicons.dev/icons?i=py,ts,docker,aws,azure,terraform,git," />
 </p>
 
-## 📊 Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/A2A%20Protocol-5B2EFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+</p>
+
+## Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fabr1ce&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -29,7 +35,7 @@
   <img src="https://streak-stats.demolab.com/?user=Fabr1ce&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔨 What I'm working on
+## What I'm working on
 
 - **[human-agent-space(HAS)]**: HAS brings coding agents artifacts into the user/human control.
 - **[supplaiguard]**: supplaiguard is a vulnerability scanner and remediation that uses Amazon **kiro**.
@@ -43,7 +49,7 @@
 
 ## Currently learning
 
-[Agent Substrate, whatever breaks Agentic Systems.]
+Agent Substrate, whatever breaks Agentic Systems.
 
 ---
 
