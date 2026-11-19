@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Fabrice 👋</h1>
 
 <p align="center">
-  <b>[I  build agentic AI systems and deploy them to real world environments.]</b>
+  <b>I  build agentic AI systems and deploy them to real world environments.</b>
 </p>
 
 <p align="center">
   <!-- <a href="https://yoursite.com">Website</a> · -->
-  <a href="https://linkedin.com/in/fabricee">LinkedIn</a> ·
+  <!-- <a href="https://linkedin.com/in/fabricee">LinkedIn</a> · -->
   <!-- <a href="mailto:you@email.com">Email</a> -->
 </p>
 
