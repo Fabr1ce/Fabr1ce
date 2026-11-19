@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:050505,50:10251D,100:00FF9C&text=BUILDING%20INTELLIGENCE&fontColor=FFFFFF&fontSize=30&fontAlign=50&fontAlignY=40&desc=DEPLOYING%20REAL-WORLD%20IMPACT&descSize=13&descAlign=50&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:050505,50:10251D,100:00FF9C&text=BUILDING%20INTELLIGENCE&fontColor=FFFFFF&fontSize=15&fontAlign=50&fontAlignY=42&desc=DEPLOYING%20REAL-WORLD%20IMPACT&descSize=9&descAlign=50&descAlignY=60" />
 </p>
 
-<h2 align="center">Hey, I'm Fabr1ce 👋</h2>
+<h2 align="center">Hey, I'm Fabrice 👋</h2>
 
 <p align="center">
   <b> I build observable, interoperable AI agents and the cloud infrastructure they run on.</b>
@@ -36,7 +36,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fabr1ce&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabr1ceE&layout=compact&hide_border=true&bg_color=050505&title_color=00FF9C&text_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabr1ce&layout=compact&hide_border=true&bg_color=050505&title_color=00FF9C&text_color=FFFFFF" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 
 ## What I'm working on
 
-- **human-agent-space (HAS)**: HAS bring the local coding agent artifacts to the user/human control
+- **human-agent-space (HAS)**: HAS brings the local coding agent artifacts to the user/human control
 - **supplaiguard**: Multi-agent vulnerability remediator that uses Kiro at its core 
 
 ## Featured projects
