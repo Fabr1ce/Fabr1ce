@@ -15,7 +15,7 @@
 ## Tech I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,docker,aws,azure,terraform,git," />
+  <img src="https://skillicons.dev/icons?i=py,ts,docker,postgres,aws,azure,terraform,git" />
 </p>
 
 <p align="center">
@@ -37,8 +37,8 @@
 
 ## What I'm working on
 
-- **[human-agent-space(HAS)]**: HAS brings coding agents artifacts into the user/human control.
-- **[supplaiguard]**: supplaiguard is a vulnerability scanner and remediation that uses Amazon **kiro**.
+- **human-agent-space(HAS)**: HAS brings coding agents artifacts into the user/human control.
+- **supplaiguard**: supplaiguard is a vulnerability scanner and remediation that uses Amazon **kiro**.
 
 ## Featured projects
 
